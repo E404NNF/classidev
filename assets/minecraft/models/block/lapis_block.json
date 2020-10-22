@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "particle": "block/lapis_block_side",
+        "down": "block/lapis_block_bottom",
+        "up": "block/lapis_block",
+        "north": "block/lapis_block_side",
+        "east": "block/lapis_block_side",
+        "south": "block/lapis_block_side",
+        "west": "block/lapis_block_side"
+    }
+}
